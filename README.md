@@ -12,3 +12,5 @@ This project uses GitHub Actions to build and run the application in Docker.
 
 \[!\[Releases](https://img.shields.io/github/release/katrina168/SCMethods/all.svg?style=flat-square)](https://github.com/katrina168/SCMethods/releases)
 
+!\[Develop build](https://github.com/katrina168/SCMethods/actions/workflows/main.yml/badge.svg?branch=develop)
+
