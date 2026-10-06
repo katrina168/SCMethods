@@ -4,3 +4,5 @@
 
 This project uses GitHub Actions to build and run the application in Docker.
 
+!\[workflow](https://github.com/katrina168/SCMethods/actions/workflows/main.yml/badge.svg)
+
